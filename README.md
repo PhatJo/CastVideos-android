@@ -25,7 +25,7 @@ to have your own ID.
    setup in the build.gradle file and the settings.gradle; it assumes you have cloned the CastCompanionLibrary-android project
    into a parallel project named "CastCompanionLibrary". If you want to change the name, make sure it gets updated in both
    settings.gradle and build.gradle. Quick steps to clone and compile the app from command line (on a Linux or Mac) are:
-     * $ git clone https://github.com/googlecast/CastVideos-android.git CastVideos
+     * $ git clone git@github.com:PhatJo/CastVideos-android.git CastVideos
      * $ git clone https://github.com/googlecast/CastCompanionLibrary-android.git CastCompanionLibrary
      * $ cd CastVideos
      * $ ./gradlew build
